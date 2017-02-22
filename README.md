@@ -25,10 +25,14 @@ git commit –m “first commit”
 git push –u origin master
 
 
-After make sure you install npm
+## After completing above
+
+Make sure you install npm using terminal or command line
 
 npm install
 
-Check for grunt 
+Check for grunt installation
 
 grunt -v
+
+
