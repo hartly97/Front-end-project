@@ -1,1 +1,34 @@
-# Front-end-project
+# Front-end-project clone instructions
+
+Clone front end Project from git hub. git@github.com:Bloc/bloc-frontend-project-starter.git
+
+Pwd  (you should be in your projects folder)
+
+git clone git@github.com:Bloc/bloc-frontend-project-starter.git bloc-chat (this is the name you give to your project)
+
+cd bloc-chat (move into your bloc-chat project folder)
+
+rm –rf.git   (deletes repo and remotes to clear history) Don’t worry you need to do this. All the needed info from the clone will still appear in your project. 
+
+git init 
+
+Go to github and create a new repo
+
+Grab the clone URL 
+
+git remote add origin git@github.com:<user name>/bloc-chat.git 
+
+git add –all
+
+git commit –m “first commit”
+
+git push –u origin master
+
+
+After make sure you install npm
+
+npm install
+
+Check for grunt 
+
+grunt -v
