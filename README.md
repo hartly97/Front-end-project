@@ -1,10 +1,10 @@
 # Front-end-project clone instructions
 
-Clone front end Project from git hub. git@github.com:Bloc/bloc-frontend-project-starter.git
+Clone front end Project from git hub     git@github.com:Bloc/bloc-frontend-project-starter.git
 
 Pwd  (you should be in your projects folder)
 
-git clone git@github.com:Bloc/bloc-frontend-project-starter.git bloc-chat (this is the name you give to your project)
+git clone     git@github.com:Bloc/bloc-frontend-project-starter.git bloc-chat (this is the name you give to your project)
 
 cd bloc-chat (move into your bloc-chat project folder)
 
