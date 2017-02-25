@@ -16,7 +16,7 @@ Go to github and create a new repo
 
 Grab the clone URL 
 
-git remote add origin git@github.com:<user name>/bloc-chat.git 
+git remote add origin git@github.com:add user name here /bloc-chat.git 
 
 git add –all
 
