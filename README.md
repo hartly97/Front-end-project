@@ -8,7 +8,7 @@ git clone     git@github.com:Bloc/bloc-frontend-project-starter.git bloc-chat (t
 
 cd bloc-chat (move into your bloc-chat project folder)
 
-rm –rf.git   (deletes repo and remotes to clear history) Don’t worry you need to do this. All the needed info from the clone will still appear in your project. 
+rm –r -f .git   (deletes repo and remotes to clear history) Don’t worry you need to do this. All the needed info from the clone will still appear in your project. 
 
 git init 
 
